@@ -15,3 +15,6 @@ Quick, Draw! is a web-based game created by Google where AI attempts to guess wh
 ✔ Predict hand-drawn doodles using webcam or input images
 ✔ Save and load trained models
 ✔ Easy setup and extensible design
+
+
+add extra feature
